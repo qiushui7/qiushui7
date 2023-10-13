@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**qiushui7/qiushui7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Hi there 👋 I'm qiushui7, a front-end development engineer 👨‍💻 a student majoring in software engineering🚀</div>  
+  
 
-Here are some ideas to get you started:
+- 🛸 My pursuit is work life balance  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ [My Yuque Blob](https://www.yuque.com/u32537114)  
+  
+
+- 📹 [My Bilibili](https://space.bilibili.com/508929534?spm_id_from=333.337.0.0)  
+  
+
+- 🌱 You can also call me Xiaotao  
+  
+
+<br/>  
