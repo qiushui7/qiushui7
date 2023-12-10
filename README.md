@@ -28,6 +28,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![NextJs Badge](https://img.shields.io/badge/NextJs-000?logo=nextdotjs&logoColor=fff&style=flat)
 
 #### Work Experience
 
