@@ -15,10 +15,10 @@
 - ✉️ My Email: 997179306@qq.com  
   
 
-- ⚡ Fun fact: [Music](https://music.163.com/#/user/home?id=332584157) LOL  
+- ⚡ Fun fact: [Music](https://music.163.com/#/user/home?id=332584157) 
 
 
-- 🔭 You can also call me Xiaotao
+- 🔭 You can also call me Tao
 
 
 #### Skill Stack
@@ -32,4 +32,4 @@
 
 #### Work Experience
 
-- 2023.9 - Today [@baidu](https://github.com/baidu) MEG FE Intern
+- 2023.9 - 2023.12 [@baidu](https://github.com/baidu) MEG FE Intern
