@@ -33,3 +33,4 @@
 #### Work Experience
 
 - 2023.9 - 2023.12 [@baidu](https://github.com/baidu) MEG FE Intern
+- 2023.1 - today [@bytedance](https://github.com/bytedance) Monetization FE Intern
