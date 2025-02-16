@@ -9,13 +9,7 @@
 - 📹 [My Bilibili](https://space.bilibili.com/508929534?spm_id_from=333.337.0.0)
 
 
-- 🐮 [My NowCoder](https://www.nowcoder.com/users/98968848)
-
-
-- ✉️ My Email: 997179306@qq.com  
-  
-
-- ⚡ Fun fact: [Music](https://music.163.com/#/user/home?id=332584157) 
+- ✉️ My Email: qiushui030716@gmail.com
 
 
 - 🔭 You can also call me Tao
