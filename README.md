@@ -1,6 +1,4 @@
 
-### I'm qiushui7, a front-end development engineer 👨‍💻 a student majoring in software engineering🚀 
-
 #### Intro 
 
 - ✉️ My Email: qiushui030716@gmail.com
