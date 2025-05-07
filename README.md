@@ -1,13 +1,7 @@
 
 ### I'm qiushui7, a front-end development engineer 👨‍💻 a student majoring in software engineering🚀 
 
-#### Intro
-
-- 🌱 [My Yuque Blob](https://www.yuque.com/u32537114)  
-  
-
-- 📹 [My Bilibili](https://space.bilibili.com/508929534?spm_id_from=333.337.0.0)
-
+#### Intro 
 
 - ✉️ My Email: qiushui030716@gmail.com
 
@@ -19,10 +13,11 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![NextJs Badge](https://img.shields.io/badge/NextJs-000?logo=nextdotjs&logoColor=fff&style=flat)
+![NodeJs Badge](https://img.shields.io/badge/NodeJs-0db21e?logo=nodedotjs&logoColor=fff&style=flat)
 
 #### Work Experience
 
