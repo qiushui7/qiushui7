@@ -1,3 +1,9 @@
+#### Intro 
+
+- ✉️ My Email: qiushui030716@gmail.com
+
+
+- 🔭 You can also call me Tao/Benjamin
 
 #### Skill Stack
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
