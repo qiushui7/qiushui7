@@ -17,6 +17,7 @@
 
 #### Work Experience
 
+- 2025.6 - now [@cloudpilot-ai](https://github.com/cloudpilot-ai) FE
 - 2024.1 - 2024.5 [@bytedance](https://github.com/bytedance) Monetization FE Intern
 - 2023.9 - 2023.12 [@baidu](https://github.com/baidu) MEG FE Intern
 
