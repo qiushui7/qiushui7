@@ -3,6 +3,7 @@
 #### Skill Stack
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=flat)
 ![Codex](https://img.shields.io/badge/Codex-000000?logo=openai-gym&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
 #### Work Experience
 
