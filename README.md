@@ -1,19 +1,8 @@
-#### Intro 
 
-- ✉️ My Email: qiushui030716@gmail.com
-
-
-- 🔭 You can also call me Tao/Benjamin
 
 #### Skill Stack
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![NextJs Badge](https://img.shields.io/badge/NextJs-000?logo=nextdotjs&logoColor=fff&style=flat)
-![NodeJs Badge](https://img.shields.io/badge/NodeJs-0db21e?logo=nodedotjs&logoColor=fff&style=flat)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=flat)
+![Codex](https://img.shields.io/badge/Codex-000000?logo=openai-gym&logoColor=white&style=flat)
 
 #### Work Experience
 
